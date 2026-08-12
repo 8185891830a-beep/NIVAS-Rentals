@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "NIVAS Rentals",
+    "slug": "nivas-rentals",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {"resizeMode": "contain", "backgroundColor": "#ffffff"},
+    "android": {
+      "package": "com.nivas.rentals",
+      "versionCode": 1
+    }
+  }
+}
